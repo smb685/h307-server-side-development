@@ -264,7 +264,7 @@
                 <div style="margin-top: 30px; padding: 20px; background: #F5F5F5; border-radius: 10px;">
                     <h3 style="color: #333; margin-bottom: 10px;">📋 Record Information</h3>
                     <p style="color: #666; line-height: 1.6;">
-                        This is a complete database record from the <strong>larry_movies_data</strong> table. 
+                        This is a complete database record from the <strong>sylvester_movies_data</strong> table. 
                         The data is retrieved using a JavaBean that connects to the MySQL database (CSD430) 
                         and executes SQL queries. The JSP page uses scriptlets to process the data and 
                         display it in this formatted table.
@@ -284,7 +284,7 @@
         <% } %>
         
         <div class="footer">
-            <p>CSD430 Database Project | Table: larry_movies_data | Total Fields: 8 | JavaBean Implementation</p>
+            <p>CSD430 Database Project | Table: sylvester_movies_data | Total Fields: 8 | JavaBean Implementation</p>
             <p style="margin-top: 5px; font-size: 12px; color: #888;">
                 This application demonstrates database connectivity using Java JSP, MySQL, and JavaBeans
             </p>
